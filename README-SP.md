@@ -113,7 +113,7 @@ Aunque Apple no admite la ejecución de Mac OS X en una PC genérica, es posible
 - [Samsung 450r5j](https://github.com/LER0ever/Hackintosh)
 - [Samsung nt550p7c-IVY](https://github.com/RockJesus/samsung-nt550p7c-sierra)
 - [Samsung NT900X3L-K501S](https://github.com/justiceserv/NT900X3L-Hackintosh)
-- [XiaoMi NoteBook Pro](https://github.com/daliansky/XiaoMi-Pro)
+- [Xiaomi NoteBook Pro](https://github.com/daliansky/XiaoMi-Pro)
 - [Xiaomi Mi Air 13.3 Skylake-U 2016 (1st Gen)](https://github.com/sakoula/XiaoMi-Air-6200U)
 
 
