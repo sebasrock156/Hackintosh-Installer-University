@@ -37,11 +37,6 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 - [PCbeta](http://mac.pcbeta.com/)
 - [iMacHK](https://imac.hk/)
 
-### Devices available in Res
-
-- [Lenove B50-70](https://github.com/huangyz0918/Hackintosh-Installer-University/tree/master/Res/%20Lenove-B50-intelHD4600-success)
-- [Asus-P8Z77-V-LX-10.12.6](https://github.com/huangyz0918/Hackintosh-Installer-University/tree/master/Res/Asus-P8Z77-V-LX-10.12.6)
-- [Gigabyte Z270XP-SLI](https://github.com/huangyz0918/Hackintosh-Installer-University/tree/master/Res/Gigabyte-GA-Z270XP-SLI-10.13.4)
 
 ### Devices avaliable in Github
 
@@ -49,13 +44,13 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 - [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh) (for macOS 10.15 or older)
 - [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh-OpenCore) (for macOS 11 or newer)
 - [Acer V5-573G](https://github.com/Kaijun/Acer-V5-573G-Hackintosh) (Open tree)
-- [Acer Aspire E5-471G](https://github.com/THLIVSQAZ/ACER-E5-471G-OpenCore) 
+- [Acer Aspire E5-471G](https://github.com/THLIVSQAZ/ACER-E5-471G-OpenCore) (Open tree)
 - [Acer Aspire E5-473-30N5](https://github.com/b-ggs/aspire-e5-hackintosh)
-- [Acer Aspire E5-571-376T](https://github.com/GalaticStryder/Acer-E5-571-Hackintosh)
+- [Acer Aspire E5-571-376T](https://github.com/GalaticStryder/Acer-E5-571-Hackintosh) (Open tree)
 - [Acer Aspire E5-571G/572G/573G o TravelMate P246-MG](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore) (Open tree)
-- [Acer Aspire V3-371-52FF](https://github.com/Ty3uK/52ff-elcapitan-toolbox)
-- [Acer Aspire V3-572G](https://github.com/FREDwiz/Hackintosh)
-- [Alienware 17 R4 KBL-1060 Dual Graphics](https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra)
+- [Acer Aspire V3-371-52FF](https://github.com/Ty3uK/52ff-elcapitan-toolbox) (Open tree)
+- [Acer Aspire V3-572G](https://github.com/FREDwiz/Hackintosh) (Open tree)
+- [Alienware 17 R4 KBL-1060 Dual Graphics](https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra) (Open tree)
 - [Asus FX50J/X550JX](https://github.com/Xc2333/Hackintosh-ASUS-FX50J)
 - [Asus H81M-K](https://github.com/Slbomber/AsusH81MK-macos)
 - [Asus-P8Z77-V-LX-10.12.6](https://github.com/huangyz0918/Hackintosh-Installer-University/tree/master/Res/Asus-P8Z77-V-LX-10.12.6)
