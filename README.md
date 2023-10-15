@@ -46,7 +46,8 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 ### Devices avaliable in Github
 
 - [Acer Aspire E1-471G](https://github.com/matthew728960/Clover-ACER-E1-471G) (Open tree)
-- [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh)
+- [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh) (for macOS 10.15 or older)
+- [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh-OpenCore) (for macOS 11 or newer)
 - [Acer V5-573G](https://github.com/Kaijun/Acer-V5-573G-Hackintosh)
 - [Acer Aspire E5-471G](https://github.com/THLIVSQAZ/ACER-E5-471G-OpenCore)
 - [Acer Aspire E5-473-30N5](https://github.com/b-ggs/aspire-e5-hackintosh)
