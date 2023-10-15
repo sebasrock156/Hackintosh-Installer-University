@@ -45,13 +45,13 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 
 ### Devices avaliable in Github
 
-- [Acer Aspire E1-471G](https://github.com/matthew728960/Clover-ACER-E1-471G)
+- [Acer Aspire E1-471G](https://github.com/matthew728960/Clover-ACER-E1-471G) (Open tree)
 - [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh)
 - [Acer V5-573G](https://github.com/Kaijun/Acer-V5-573G-Hackintosh)
 - [Acer Aspire E5-471G](https://github.com/THLIVSQAZ/ACER-E5-471G-OpenCore)
 - [Acer Aspire E5-473-30N5](https://github.com/b-ggs/aspire-e5-hackintosh)
 - [Acer Aspire E5-571-376T](https://github.com/GalaticStryder/Acer-E5-571-Hackintosh)
-- [Acer Aspire E5-571G/572G/573G o TravelMate P246-MG](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+- [Acer Aspire E5-571G/572G/573G o TravelMate P246-MG](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore) (Open tree)
 - [Acer Aspire V3-371-52FF](https://github.com/Ty3uK/52ff-elcapitan-toolbox)
 - [Acer Aspire V3-572G](https://github.com/FREDwiz/Hackintosh)
 - [Alienware 17 R4 KBL-1060 Dual Graphics](https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra)
@@ -60,7 +60,7 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 - [Asus-P8Z77-V-LX-10.12.6](https://github.com/huangyz0918/Hackintosh-Installer-University/tree/master/Res/Asus-P8Z77-V-LX-10.12.6)
 - [Asus ROG Strix Hero 2](https://github.com/664235822/EFI-OpenCore-ASUS-ROG-Strix-Hero2)
 - [Asus ROG Zephyrus S GX531](https://github.com/williambj1/Hackintosh-EFI-Asus-Zephyrus-S-GX531)
-- [Asus X555QA](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
+- [Asus X555QA](https://github.com/sebasrock156/Asus-X555QA-Hackintosh) (Private tree)
 - [Asus Vivobook S510UA](https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh)
 - [Asus Zenbook](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
 - [Dell 7559 4K SKL](https://github.com/RockJesus/Dell-7559-I7-6700HQ-4K-touch-MacOS-High-Sierra)
