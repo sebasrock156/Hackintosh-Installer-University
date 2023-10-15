@@ -37,11 +37,11 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 - [PCbeta](http://mac.pcbeta.com/)
 - [iMacHK](https://imac.hk/)
 
-### Devices in tests (from other sources)
+### Dispositivos en pruebas (de otras fuentes)
 
 - [Asus ROG Strix SCAR II](https://bitbucket.org/jmpfbmx/asus_rog_strix_scar_ii_gl504gw-es043/src/master/)
 
-### Devices avaliable in Github
+### Dispositivos disponibles (en Github)
 
 - [Acer Aspire E1-471G](https://github.com/matthew728960/Clover-ACER-E1-471G)
 - [Acer A515-51G](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh)
@@ -114,7 +114,7 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 - [Samsung nt550p7c-IVY](https://github.com/RockJesus/samsung-nt550p7c-sierra)
 - [Samsung NT900X3L-K501S](https://github.com/justiceserv/NT900X3L-Hackintosh)
 - [XiaoMi NoteBook Pro](https://github.com/daliansky/XiaoMi-Pro)
-- [Xiaomi Mi Air 13.3 Skylake-U 2016 (1rst Gen)](https://github.com/sakoula/XiaoMi-Air-6200U)
+- [Xiaomi Mi Air 13.3 Skylake-U 2016 (1st Gen)](https://github.com/sakoula/XiaoMi-Air-6200U)
 
 
 ## * Colección de EFIs para CLOVER
