@@ -2,7 +2,6 @@
 [![Licencia](https://img.shields.io/badge/licencia-CC_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![progreso](https://img.shields.io/badge/progreso-en_desarrollo-yellow.svg)  
 
-
 :loudspeaker: Presentamos esta colección de información y tutoriales (a futuro) de Código Abierto para hacer instalaciones de Hackintosh (válidas hasta macOS Ventura). 
 
 :loudspeaker: No queremos crear un tutorial de instalación universal y también es imposible ya que cada dispositivo es diferente. Estamos aquí porque queremos recopilar información y experiencias, queremos crear un índice de las compilaciones más exitosas en GitHub y hacer que se descubran más fácilmente. Cuando era novato, no sabía cómo empezar a construir un Hackintosh porque no sabía qué es un gestor de arranque y una partición EFI. Me tomó mucho tiempo encontrar una compilación útil en Github debido a la ubicación profunda de ese repositorio. Este es el propósito por el que creamos este índice.
