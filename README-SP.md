@@ -4,27 +4,27 @@
 [![contribuciones](https://img.shields.io/badge/contributions-welcome-green.svg)](https://github.com/sebasrock156/Hackintosh-Installer-University) 
 
 
-:loudspeaker: This is an open source tutorial & information collector for Hackintosh installations that does not charge readers any fee. 
+:loudspeaker: Presentamos esta colección de información y tutoriales (a futuro) de Código Abierto para hacer instalaciones de Hackintosh (válidas hasta macOS Ventura). 
 
-:loudspeaker: We don't want to build a universal installation tutorial and, it's also impossible since every device is different. We are here because we want to gather information and experiences, we want to build an index for most successful builds in GitHub and make them be discovered more easily. When I was just a newbie, I didn't know how to get started building a Hackintosh since I didn't know what's a bootloader and an EFI partition. It took me a long time to find a helpful build in Github due to the deep location of that repo. So this is the purpose why we created this index.
+:loudspeaker: No queremos crear un tutorial de instalación universal y también es imposible ya que cada dispositivo es diferente. Estamos aquí porque queremos recopilar información y experiencias, queremos crear un índice de las compilaciones más exitosas en GitHub y hacer que se descubran más fácilmente. Cuando era novato, no sabía cómo empezar a construir un Hackintosh porque no sabía qué es un gestor de arranque y una partición EFI. Me tomó mucho tiempo encontrar una compilación útil en Github debido a la ubicación profunda de ese repositorio. Este es el propósito por el que creamos este índice.
 
-:loudspeaker: As we know, Hackintosh is potentially illegal because doing this violates the end-user license agreement [(EULA)](http://images.apple.com/legal/sla/docs/macosx107.pdf) from Apple for macOS. Therefore, we just focus on the technologies related to Hackintosh and do not use it commercially. If you want to get started, please first read this license in detail and remember that you are a geek, not a criminal.
+:loudspeaker: Como sabemos, Hackintosh es potencialmente ilegal porque viola el acuerdo de licencia de usuario final. [(EULA)](http://images.apple.com/legal/sla/docs/macosx107.pdf) de Apple para macOS. Por lo tanto, sólo nos centramos en las tecnologías relacionadas con Hackintosh y no las utilizamos comercialmente. Si desea comenzar, primero lea esta licencia en detalle y recuerde que es un geek, no un criminal.
 
-Here are some other language versions:
+Aquí hay algunas versiones en otros idiomas:
 - [中文版本](README-CN.md)
 - [English](README.md)
 
 ## ¿Qué es Hackintosh?
 
-When Apple announced their switch away from the PowerPC architecture to Intel's processors and chipsets, many were looking forward to having the ability to run Windows software on Apple hardware and Apple's operating systems on their non-Apple hardware. Apple was able to eventually build their Boot Camp feature in Mac OS X 10.5, later allowing Windows to run on Apple hardware. Those hoping to easily run Mac OS X on a standard PC didn't have it so easy.
+Cuando Apple anunció su cambio de la arquitectura PowerPC a los procesadores y chipsets de Intel, muchos esperaban tener la capacidad de ejecutar software de Windows en hardware de Apple y los sistemas operativos de Apple en su hardware que no fuera Apple. Apple finalmente pudo crear su función Boot Camp en Mac OS X 10.5, y luego permitió que Windows se ejecutara en hardware de Apple. Aquellos que esperaban ejecutar Mac OS X fácilmente en una PC estándar no lo tuvieron tan fácil.
 
-Even though running Mac OS X on a generic PC is not supported by Apple, it is possible to accomplish given the right hardware and determination by users. Any system that is not made to run the Apple operating system is referred to as Hackintosh. This term comes from the fact that the software needs to be hacked to properly run on Non-Apple hardware. Of course, some of the hardware needs to be tweaked in a few cases as well.
+Aunque Apple no admite la ejecución de Mac OS X en una PC genérica, es posible lograrlo con el hardware adecuado y la determinación de los usuarios. Cualquier sistema que no esté diseñado para ejecutar el sistema operativo Apple se denomina Hackintosh. Este término proviene del hecho de que es necesario piratear el software para que se ejecute correctamente en hardware que no sea de Apple. Por supuesto, en algunos casos también es necesario modificar parte del hardware.
 
 ## ¿Cómo aprender sobre Hackintosh?
 
-:bell:There's a lot to learn if you want to figure out the secrets behind Hackintosh, please go this door ---> [:door:](slow/slow.md)
+:bell: Hay mucho que aprender si quieres descubrir los secretos detrás de Hackintosh, ve por esta puerta ---> [:door:](slow/slow.md)
 
-:bell:If you have no interest in those theories, and just want a quick installation, please go through this door ---> [:door:](quick/quick.md)
+:bell: Si no tiene interés en esas teorías y solo desea una instalación rápida, pase por esta puerta ---> [:door:](quick/quick.md)
 
 ### Sitios web famosos para Hackintosh y MacOS
 - [Wikipedia](https://es.wikipedia.org/wiki/Hackintosh)
@@ -58,6 +58,7 @@ Even though running Mac OS X on a generic PC is not supported by Apple, it is po
 - [Asus-P8Z77-V-LX-10.12.6](https://github.com/huangyz0918/Hackintosh-Installer-University/tree/master/Res/Asus-P8Z77-V-LX-10.12.6)
 - [Asus Zenbook](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
 - [Asus Vivobook S510UA](https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh)
+- [Asus ROG Strix Hero 2](https://github.com/664235822/EFI-OpenCore-ASUS-ROG-Strix-Hero2)
 - [Asus ROG Zephyrus S GX531](https://github.com/williambj1/Hackintosh-EFI-Asus-Zephyrus-S-GX531)
 - [Dell 7559 4K SKL](https://github.com/RockJesus/Dell-7559-I7-6700HQ-4K-touch-MacOS-High-Sierra)
 - [Dell G7 7588 OpenCore](https://github.com/Juan-VC/Hackintosh-macOS-Dell-G7-7588)
