@@ -1,5 +1,5 @@
 # Hackintosh-Installer-University
-[![Licencia](https://img.shields.io/badge/license-CC%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Licencia](https://img.shields.io/badge/licencia-CC_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![progreso](https://img.shields.io/badge/progreso-en_desarrollo-yellow.svg) 
 [![contribuciones](https://img.shields.io/badge/contributions-welcome-green.svg)](https://github.com/sebasrock156/Hackintosh-Installer-University) 
 
